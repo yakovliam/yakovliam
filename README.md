@@ -12,6 +12,8 @@
   <a href="https://github.com/yakovliam">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
+  
+![](https://komarev.com/ghpvc/?username=yakovliam&color=blueviolet)
 </p>
 
 <br/>
