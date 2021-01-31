@@ -13,6 +13,7 @@
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <br/>
+  <br/>
   <img src="https://bit.ly/3j5U0nI"/>
 </p>
 
@@ -31,3 +32,4 @@
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=yakovliam&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakovliam)
+<img src="https://komarev.com/ghpvc/?username=yakovliam&color=blueviolet" style="visibility:hidden;"/>
