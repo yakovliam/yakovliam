@@ -12,8 +12,8 @@
   <a href="https://github.com/yakovliam">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  
-![](https://bit.ly/3j5U0nI)
+  <br/>
+  <img src="https://bit.ly/3j5U0nI"/>
 </p>
 
 <br/>
