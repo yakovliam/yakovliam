@@ -14,7 +14,7 @@
   </a>
   <br/>
   <br/>
-  <img src="https://bit.ly/3j5U0nI"/>
+  <img src="https://komarev.com/ghpvc/?username=yakovliam"/>
 </p>
 
 <br/>
