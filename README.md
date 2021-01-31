@@ -13,7 +13,7 @@
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   
-![](https://komarev.com/ghpvc/?username=yakovliam&color=blueviolet)
+![](https://bit.ly/3j5U0nI)
 </p>
 
 <br/>
