@@ -20,15 +20,10 @@
 <br/>
 
 <p align="center">
-	<ul>
-		<li>📪 Email - <a href="mailto:jacob@yakovliam.com">jacob@yakovliam.com</a></li>
-		<li>ℹ️ Website - <a href="https://www.yakovliam.com/">https://www.yakovliam.com/</a></li>
-		<li>🍻 Looking to collaborate on - Malware research project with web & desktop application integration - <a href="https://github.com/yakovliam/RTool/">https://github.com/yakovliam/RTool/</a></li>
-	</ul>
+		<a href="mailto:jacob@yakovliam.com"><img src="https://img.shields.io/badge/Email-jacob@yakovliam.com-9cf?style=for-the-badge&logo=gmail"></a>
+		<a href="https://www.yakovliam.com"><img src="https://img.shields.io/badge/Website-https://www.yakovliam.com/-9cf?style=for-the-badge&logo=sitepoint"></a>
 </p>
 
-<h2 align="center">Stats</h2>
-
-
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=yakovliam&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakovliam)
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakovliam">
+</div>
