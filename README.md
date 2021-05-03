@@ -14,7 +14,7 @@
   </a>
   <br/>
   <br/>
-![](https://hit.yhype.me/github/profile?user_id=40674666)
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square"/>
 </p>
 
 <br/>
@@ -27,3 +27,5 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakovliam">
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=40674666)
