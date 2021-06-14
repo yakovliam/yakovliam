@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://raw.githubusercontent.com/yakovliam/yakovliam/master/circle-cropped.png">
+    <img style="border-radius: 100px" width="128" height="128" src="https://avatars.githubusercontent.com/u/40674666?s=400&u=d1b21bfd266078a1126cbdbca1269a6dc4d7924f&v=4">
 </p>
 
 <h1 align="center">Jacob (yakovliam)</h1>
